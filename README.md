@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @alexokereke
-- 👀 I’m interested in becoming perfect in coding...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on java, python ...
-- 📫 How to reach me ...
-- 😄 Pronouns: male...
-- ⚡ Fun fact: ...
+I'm Chinaza Okereke; call me Alex.
 
-<!---
-alexokereke/alexokereke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy turning ideas into reality through code! 😊
+🔭 I’m currently working on projects using Python, C++, JavaScript, and Golang.
+🌱 I’m expanding my skills by learning Rust, Swift, Java, and Shell scripting.
+💬 Feel free to ask me anything about Python & JavaScript.
+📫 How to reach me: Gmail 
+😄 Pronouns: He/Him/His
+👯 I’m eager to collaborate on open-source projects and innovative ideas!
